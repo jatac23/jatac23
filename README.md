@@ -1,4 +1,4 @@
-<h1 align="center">Jerome Atacador</h1>
+<h1 align="center">JEROME ATACADOR</h1>
 
 <p align="center">
   <b>Head of Business Intelligence &amp; Data Engineering @ OpenSolar</b><br>
