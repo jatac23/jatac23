@@ -72,6 +72,14 @@ Based in the Philippines, working remotely across US, APAC, and EMEA time zones.
 
 **[os-data-share](https://github.com/jatac23/os-data-share)** — Privacy-preserving hashing utility for sharing datasets with external partners without exposing raw identifiers.
 
+### Private projects
+
+Most of what I build day to day lives in private repos. Two I'm happy to walk through in conversation:
+
+**`project_gaia`** — Automated trading system in Python. Market data ingestion, strategy backtesting, signal generation, and risk controls against live exchange APIs.
+
+**`project_odyssey`** — LLM-driven job search and application agent. Scrapes and normalizes postings, tailors resumes and cover letters per role with Vertex AI, scores them against an ATS rubric before anything is sent, drives browser automation for submissions, and logs every application to Google Sheets. Python, Playwright, Google Cloud, structured prompt pipelines.
+
 ### Beyond the day job
 
 Crypto trader since 2020 and consultant to **MON Protocol / Pixelmon**, a gaming blockchain — NFT and token market-performance analytics, and launch analytics through their token generation event.
