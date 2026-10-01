@@ -66,19 +66,11 @@ Based in the Philippines, working remotely across US, APAC, and EMEA time zones.
 ![Nansen](https://img.shields.io/badge/Nansen-000000?style=flat-square)
 ![Chainalysis](https://img.shields.io/badge/Chainalysis-1A1A1A?style=flat-square)
 
-### Selected work
-
-**[project_apollo](https://github.com/jatac23/project_apollo)** — On-chain wallet labelling pipeline over BigQuery. Pluggable labeler architecture (whales, DEX users, NFT traders, new wallets) with a containerized, reproducible dev environment.
-
-**[os-data-share](https://github.com/jatac23/os-data-share)** — Privacy-preserving hashing utility for sharing datasets with external partners without exposing raw identifiers.
-
 ### Private projects
 
-Most of what I build day to day lives in private repos. Two I'm happy to walk through in conversation:
+Most of what I build day to day lives in private repos. One I'm happy to walk through in conversation:
 
 **`project_gaia`** — Automated trading system in Python. Market data ingestion, strategy backtesting, signal generation, and risk controls against live exchange APIs.
-
-**`project_odyssey`** — LLM-driven job search and application agent. Scrapes and normalizes postings, tailors resumes and cover letters per role with Vertex AI, scores them against an ATS rubric before anything is sent, drives browser automation for submissions, and logs every application to Google Sheets. Python, Playwright, Google Cloud, structured prompt pipelines.
 
 ### Beyond the day job
 
